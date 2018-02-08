@@ -42,3 +42,4 @@ void fn(int *a) {
 		printf("%c", '*');
 	}
 }
+/*updated*/

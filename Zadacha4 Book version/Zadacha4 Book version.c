@@ -36,3 +36,4 @@ void minmax(float m[], int n, float *min, float *max)
 			*max = m[i];
 	}
 }
+/*updated*/

@@ -62,3 +62,4 @@ int fun12(int *x, int n, int el)
 			return i;
 	return -1;
 }
+/*updated*/
