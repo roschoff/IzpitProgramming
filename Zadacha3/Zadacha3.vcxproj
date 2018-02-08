@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{2B31A4DC-E30E-42C7-BF62-9A9218121DFC}</ProjectGuid>
+    <ProjectGuid>{7F18FC53-E416-438C-A972-56983D4DBFC6}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Zadacha1</RootNamespace>
+    <RootNamespace>Zadacha3</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Zadacha1.c" />
+    <ClCompile Include="Zadacha3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

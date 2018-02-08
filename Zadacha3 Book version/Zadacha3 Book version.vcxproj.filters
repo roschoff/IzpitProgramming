@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Zadacha1.c">
+    <ClCompile Include="Zadacha3 Book version.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
