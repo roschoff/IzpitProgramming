@@ -42,4 +42,4 @@ void fn(int *a) {
 		printf("%c", '*');
 	}
 }
-/*updated*/
+/*updated2.0*/
