@@ -12,7 +12,7 @@ short f(short a, short *b) {
 }
 int main(void)
 {
-	/*char m[] = "source", *p;*/
+	char m[] = "source", *p;
 	short x, y, z, arr[] = { -5, 2, -7, 17 }, *ps = arr;
 	
 	/*y = z = 9;
@@ -50,12 +50,12 @@ int main(void)
 	z = f(y, &x); 
 	printf("8: %d %d %d %d\n", x, y, z, w);
 
-	/*for (p = m + 1; *p; p++) {
+	for (p = m + 1; *p; p++) {
 		*p -= 1;
 	}
 
 	printf("9: %s %c %c", m + 2, *(m + 3), m[0]);
-	*/
+	
 	return 0;
 
-}/*testche*/
+}
