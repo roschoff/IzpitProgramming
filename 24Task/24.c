@@ -4,6 +4,7 @@ int main(void)
 {
 	int i, a=0, b=12;
 
+	/*random program*/
 	for (i = 0; b<21; i++) {
 		
 		a = (b + 24) / 2;
